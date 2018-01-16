@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TestProject\n"
+"POT-Creation-Date: 2015-03-15 12:37-0600\n"
+"PO-Revision-Date: 2015-03-21 02:38-0600\n"
+"Last-Translator: \n"
+"Language-Team: MyTeam <team@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Test token 1
+msgid "bienvenido"
+msgstr "Hello Hely!"
+
+# Test token 2
+msgid "mensaje1"
+msgstr "I love you Hely!"

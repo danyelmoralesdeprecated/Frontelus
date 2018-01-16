@@ -1,0 +1,41 @@
+<?php
+
+namespace Frontelus\Library\I18N;
+
+class FactoryI18N
+{
+
+    private $error;
+    private $errorId;
+
+    public function __construct()
+    {
+        $this->error = FALSE;
+        $this->errorId = 0;
+    }
+
+    public function translate_strid($sysI18N, $strid, $lang = 'default', $xmlLocale = TRUE)
+    {
+        
+    }
+
+    public function build($sysI18N, $lang)
+    {
+        
+    }
+
+    public function translate_string($sysI18N, $str, $lang)
+    {
+        
+    }
+
+    public function getError($retId = false)
+    {
+        if ($retId)
+        {
+            return $this->errorId;
+        }
+        return $this->error;
+    }
+
+}

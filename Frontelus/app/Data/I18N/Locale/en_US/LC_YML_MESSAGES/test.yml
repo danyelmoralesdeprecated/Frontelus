@@ -1,0 +1,6 @@
+## YAML LANGUAGE TEMPLATE
+---
+Locale:
+ 0: { msgid: 'bienvenido', msgstr: 'Hello my friend' }
+ 1: { msgid: 'mensaje1', msgstr: 'This is the translation sys of yaml' }
+ 2: { msgid: 'opciones', msgstr: 'o | o2 | o3' }

@@ -1,0 +1,4 @@
+configuration:
+ request: { variableGet: 'trackflag', defaultRequest: 'baseView', varsGet: { 0: 'action'}, onVarsGet: { defaultRequest: TRUE } }
+ indexPath: '../'
+ useJoiner: 'FALSE'

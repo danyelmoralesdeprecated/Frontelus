@@ -1,0 +1,7 @@
+addPath:
+ friendly: TRUE
+ css: "css"
+ fonts: "fonts"
+ images: "images"
+ js: "js"
+ plugins: "plugins"

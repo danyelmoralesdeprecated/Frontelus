@@ -1,0 +1,12 @@
+AddPage:
+ # TRACKFLAG SYS ROUTER
+ baseView: { class: 'Controller\UserController', action: 'loadComponents', view: 'showProfileBase' }
+ 
+ # USER ROUTER
+ #profile: { class: 'Controller\UserController', action: 'loadComponents', view: 'showProfilePan', strict: 'FALSE'}
+ logout: {  class: 'Controller\UserController', action: 'logout', strict: 'FALSE'} 
+ follow: { class: 'Controller\UserController', action: 'follow'}
+ unfollow: { class: 'Controller\UserController', action: 'unfollow'}
+#AddVGBehavior:
+ # UNKNOWN REQUEST 
+# user: { GOTO: '@page:profile' }

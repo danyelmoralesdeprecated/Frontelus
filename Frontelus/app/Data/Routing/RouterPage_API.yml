@@ -1,0 +1,6 @@
+AddPage:
+ # USER ROUTER
+ cft: {  class: 'Controller\ApiC', action: 'checkFirstTime', view: 'callBack', strict: 'FALSE'} 
+ sm: {  class: 'Controller\ApiC', action: 'saveMarker', view: 'callBack', strict: 'FALSE'} 
+ sws: {  class: 'Controller\ApiC', action: 'saveWebsite', view: 'callBack', strict: 'FALSE'} 
+ shy: {  class: 'Controller\ApiC', action: 'saveHistory', view: 'callBack', strict: 'FALSE'} 

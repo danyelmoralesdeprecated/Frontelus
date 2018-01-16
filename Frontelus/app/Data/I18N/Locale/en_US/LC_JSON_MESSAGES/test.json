@@ -1,0 +1,16 @@
+{
+    "Locale":[
+     { 
+       "msgid":"bienvenido",
+       "msgstr": "welcome my friend"
+     },
+     { 
+       "msgid":"mensaje1",
+       "msgstr": "This is the json translation system"
+     },
+     { 
+       "msgid":"opciones",
+       "msgstr": "opx opy opjsn"
+     }
+    ]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Locale lang = "es_MX">    
+    <msgstr msgid = "bienvenido">Hola mundo.</msgstr>
+    <msgstr msgid = "mensaje1">Esto es el sistema de traducciones.</msgstr>
+    <msgstr msgid = "opciones">Inicio | mensajes | ayuda</msgstr>
+</Locale>

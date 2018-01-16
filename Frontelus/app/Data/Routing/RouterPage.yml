@@ -1,0 +1,9 @@
+AddPage:
+ # composed
+ login: {class: '\Controller\Trackflag', action: 'login', view: 'showLoginForm', strict: 'FALSE'}
+ 
+ # show views
+ home: { view: 'showLandingPage', strict: 'FALSE'}
+ 
+ #form actions
+ 
